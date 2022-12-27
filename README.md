@@ -53,7 +53,6 @@ I'm a front-end dev 💻, actually I'm in love for any tech... Here u gonna see 
   
 ---   
     
-    
-  ![Snake animation](https://github.com/theusagiya/theusagiya/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lucsamsilva/lucsamsilva/blob/output/github-contribution-grid-snake.svg)
   
 </div>
