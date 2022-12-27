@@ -46,7 +46,7 @@ I'm a front-end dev 💻, actually I'm in love for any tech... Here u gonna see 
      <img src = "assets/main.gif" width = "220px" align  = "left" />
   <!-- Dark Mode -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=theusagiya&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Usagi's Github stats" />
+  <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=lucsamsilva&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Lucsa's Github stats" />
   </a>
   </div>
 
